@@ -1,2 +1,1 @@
-# Stop request if u not contributing any thing to ne :)
-
+print(f"STOP UPDATING, PLEASE CHOOSE ANOTHER SCRIPTS!")
